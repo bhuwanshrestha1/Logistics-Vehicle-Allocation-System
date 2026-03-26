@@ -1,8 +1,8 @@
-# Fleet Carrier Assignment Module
+# Logistics Vehicle Allocation System
 
 ## Overview
 
-The Fleet Carrier Assignment module is an Odoo extension that automatically assigns delivery vehicles to delivery orders based on weight and volume capacity. It uses a best-fit algorithm to optimize vehicle utilization and tracks all vehicle-order assignments for easy monitoring and reporting.
+The Logistics Vehicle Allocation System module is an Odoo extension that automatically assigns delivery vehicles to delivery orders based on weight and volume capacity. It uses a best-fit algorithm to optimize vehicle utilization and tracks all vehicle-order assignments for easy monitoring and reporting.
 
 ## Version
 - **Module Version**: 19.0.0.1
